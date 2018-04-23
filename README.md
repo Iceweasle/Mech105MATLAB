@@ -1,2 +1,3 @@
-# Simsons integration
-MatLab files from mech 105
+# Simpsons integration
+========================
+
